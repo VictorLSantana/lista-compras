@@ -16,3 +16,6 @@ wheels/
 # Csv files
 *.csv
 
+# VS code
+.vscode/
+
